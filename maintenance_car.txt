@@ -1,0 +1,121 @@
+
+ number_of_maintenance : 1 
+ number_of_the_car : 24 
+ number_of_the_part (sire number) : 40
+ number_of_the_parts_used : 4
+ sale_of_the_parts : 10000
+ total_cost : 40500.000000
+ the date is d/m/y : 29/1/2000 
+----------------------------------------
+ number_of_maintenance : 3 
+ number_of_the_car : 34 
+ number_of_the_part (sire number) : 6
+ number_of_the_parts_used : 4
+ sale_of_the_parts : 1000
+ total_cost : 4600.0
+ the date is d/m/y : 29/1/2000 
+----------------------------------------
+ number_of_maintenance : 32 
+ number_of_the_car : 43 
+ number_of_the_part (sire number) : 3
+ number_of_the_parts_used : 2
+ sale_of_the_parts : 5000
+ total_cost : 10500.0
+ the date is d/m/y : 29/1/2000 
+----------------------------------------
+ number_of_maintenance : 21 
+ number_of_the_car : 43 
+ number_of_the_part (sire number) : 43
+ number_of_the_parts_used : 5
+ sale_of_the_parts : 6000
+ total_cost : 30600.0
+ the date is d/m/y : 27/1/2000 
+----------------------------------------
+ number_of_maintenance : 39 
+ number_of_the_car : 43 
+ number_of_the_part (sire number) : 98
+ number_of_the_parts_used : 4
+ sale_of_the_parts : 10000
+ total_cost : 40900.0
+ the date is d/m/y : 4/6/1999 
+----------------------------------------
+ number_of_maintenance : 21 
+ number_of_the_car : 43 
+ number_of_the_part (sire number) : 43
+ number_of_the_parts_used : 5
+ sale_of_the_parts : 5000
+ total_cost : 30600.0
+ the date is d/m/y : 27/1/2000 
+----------------------------------------
+ number_of_maintenance : 32 
+ number_of_the_car : 43 
+ number_of_the_part (sire number) : 3
+ number_of_the_parts_used : 2
+ sale_of_the_parts : 6000
+ total_cost : 10500.0
+ the date is d/m/y : 29/1/2000 
+----------------------------------------
+ number_of_maintenance : 39 
+ number_of_the_car : 43 
+ number_of_the_part (sire number) : 98
+ number_of_the_parts_used : 4
+ sale_of_the_parts : 10000
+ total_cost : 40900.0
+ the date is d/m/y : 4/6/1999 
+----------------------------------------
+ number_of_maintenance : 32 
+ number_of_the_car : 32 
+ number_of_the_part (sire number) : 44
+ number_of_the_parts_used : 3
+ sale_of_the_parts : 6000
+ total_cost : 18500.0
+ the date is d/m/y : 29/1/2000 
+----------------------------------------
+ number_of_maintenance : 66 
+ number_of_the_car : 32 
+ number_of_the_part (sire number) : 88
+ number_of_the_parts_used : 2
+ sale_of_the_parts : 6000
+ total_cost : 16000.0
+ the date is d/m/y : 28/1/2000 
+----------------------------------------
+ number_of_maintenance : 32 
+ number_of_the_car : 32 
+ number_of_the_part (sire number) : 32
+ number_of_the_parts_used : 5
+ sale_of_the_parts : 3000
+ total_cost : 15500.0
+ the date is d/m/y : 19/1/2000 
+----------------------------------------
+ number_of_maintenance : 32 
+ number_of_the_car : 45 
+ number_of_the_part (sire number) : 44
+ number_of_the_parts_used : 2
+ sale_of_the_parts : 2000
+ total_cost : 4500.0
+ the date is d/m/y : 1/1/1999 
+----------------------------------------
+ number_of_maintenance : 44 
+ number_of_the_car : 32 
+ number_of_the_part (sire number) : 44
+ number_of_the_parts_used : 3
+ sale_of_the_parts : 2000
+ total_cost : 6500.0
+ the date is d/m/y : 20/1/2000 
+----------------------------------------
+ number_of_maintenance : 35 
+ number_of_the_car : 32 
+ number_of_the_part (sire number) : 44
+ number_of_the_parts_used : 3
+ sale_of_the_parts : 3000
+ total_cost : 9600.0
+ the date is d/m/y : 32/3/2000 
+----------------------------------------
+ number_of_maintenance : 3 
+ number_of_the_car : 44 
+ number_of_the_part (sire number) : 33
+ number_of_the_parts_used : 2
+ sale_of_the_parts : 2000
+ total_cost : 4500.0
+ the date is d/m/y : 2/2/1999 
+----------------------------------------

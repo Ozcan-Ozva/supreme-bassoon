@@ -1,0 +1,7 @@
+number_of_the_car : 23 
+name_of_the_car : dgf 
+color_of_the_car : dfh 
+name_of_the_man_of_the_car : ghgf 
+number_of_the_man_of_the_car : 34534 
+------------------------------
+
